@@ -1,6 +1,6 @@
 
 
-[LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/pwijayak/)
+{[LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/pwijayak/)}
 
 
 
