@@ -97,9 +97,7 @@ This is an leetcode of how to list things you need to use the software and how t
 2. Install NPM packages
    ```sh
    npm install
-   ```
-
-   ```
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,13 +114,13 @@ _For more leetcodes, please refer to the [Documentation](https://leetcode.com)_
 
 
 
-<!-- ROADMAP -->
+<!-- ROADMAP 
 ## Roadmap
 
 - [ ] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
-    - [ ] Nested Feature
+    - [ ] Nested Feature-->
 
 See the [open issues](https://github.com/pwijayak/leetcode/issues) for a full list of proposed features (and known issues).
 
