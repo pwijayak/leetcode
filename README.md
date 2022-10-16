@@ -1,15 +1,10 @@
 
 
-[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/pwijayak/)]
+[LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/pwijayak/)
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="[https://github.com/pwijayak/leetcode]">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
 <h3 align="center">Leetcode Challenges</h3>
 
